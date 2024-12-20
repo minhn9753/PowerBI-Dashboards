@@ -18,3 +18,7 @@ This project includes the development of two interactive PowerBI dashboards that
 
 This project serves as a practical demonstration of PowerBI's capabilities in business intelligence, showcasing both analytical and visualization skills in a corporate environment.
 
+### Files to be used
+1. AdventureWorks_Report_FINAL.pbix (PowerBI dashboard file)
+2. Maven_Market_Report_COMPLETE.pbix (PowerBI dashboard file)
+3. AdventureWorks and MavenMarket folder (raw data files)
